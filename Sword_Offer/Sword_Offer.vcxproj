@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="03findrepeatnumber.cpp" />
+    <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

@@ -9,7 +9,12 @@
 #include<vector>
 #include<string>
 using namespace std;
-
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary* obj = new WordDictionary();
+ * obj->addWord(word);
+ * bool param_2 = obj->search(word);
+ */
 struct TrieNode {
     vector<TrieNode*> child;
     bool isEnd;
