@@ -27,6 +27,9 @@
     <ClCompile Include="208Trie.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="453minMoves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
