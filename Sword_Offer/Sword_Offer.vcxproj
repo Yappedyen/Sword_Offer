@@ -142,6 +142,7 @@
     <ClCompile Include="03findrepeatnumber.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
+    <ClCompile Include="229MajorityElement.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
     <ClCompile Include="main.cpp" />
