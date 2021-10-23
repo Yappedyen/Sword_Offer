@@ -36,6 +36,9 @@
     <ClCompile Include="229MajorityElement.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="492constructRectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
