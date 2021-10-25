@@ -143,6 +143,7 @@
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
     <ClCompile Include="229MajorityElement.cpp" />
+    <ClCompile Include="240searchMatrix.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />

@@ -42,6 +42,9 @@
     <ClCompile Include="638shoppingOffers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="240searchMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
