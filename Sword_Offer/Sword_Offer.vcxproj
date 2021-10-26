@@ -146,6 +146,7 @@
     <ClCompile Include="240searchMatrix.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
+    <ClCompile Include="496nextGreaterElement.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
     <ClCompile Include="main.cpp" />
