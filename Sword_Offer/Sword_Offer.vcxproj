@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="03findrepeatnumber.cpp" />
+    <ClCompile Include="10numWays.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
     <ClCompile Include="229MajorityElement.cpp" />
     <ClCompile Include="240searchMatrix.cpp" />
+    <ClCompile Include="301removeInvalidParentheses.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="496nextGreaterElement.cpp" />

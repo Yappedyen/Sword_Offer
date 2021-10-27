@@ -6,6 +6,8 @@
 //nums1 中数字 x 的下一个更大元素是指 x 在 nums2 中对应位置的右边的第一个比 x 大的元素。如果不存在，对应位置输出 - 1 。
 
 vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+
+
     int n = nums1.size();
     vector<int>v;
     for (int i = 0; i < n; i++) {
@@ -22,6 +24,8 @@ vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
     }
     return v;
 
+
+    //O(m+n)
     unordered_map<int, int> hashmap;
     stack<int> st;
     for (int i = nums2.size() - 1; i >= 0; --i) {
