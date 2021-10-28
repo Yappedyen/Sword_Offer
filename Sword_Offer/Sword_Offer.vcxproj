@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="03findrepeatnumber.cpp" />
+    <ClCompile Include="10fib.cpp" />
     <ClCompile Include="10numWays.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="496nextGreaterElement.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
+    <ClCompile Include="869reorderedPowerOf2.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

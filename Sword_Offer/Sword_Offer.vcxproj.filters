@@ -54,6 +54,12 @@
     <ClCompile Include="10numWays.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10fib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="869reorderedPowerOf2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">

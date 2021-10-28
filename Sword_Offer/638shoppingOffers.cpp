@@ -12,24 +12,6 @@ using namespace std;
 
 map<vector<int>, int> memo;
 
-int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
-    int n = price.size();
-
-    // 过滤不需要计算的大礼包，只保留需要计算的大礼包
-    vector<vector<int>> filterSpecial;
-    for (auto& sp : special) {
-        int totalCount = 0, totalPrice = 0;
-        for (int i = 0; i < n; ++i) {
-            totalCount += sp[i];
-            totalPrice += sp[i] * price[i];
-        }
-        if (totalCount > 0 && totalPrice > sp[n]) {
-            filterSpecial.emplace_back(sp);
-        }
-    }
-
-    return dfs(price, special, needs, filterSpecial, n);
-}
 
 // 记忆化搜索计算满足购物清单所需花费的最低价格
 int dfs(vector<int> price, const vector<vector<int>>& special, vector<int> curNeeds, vector<vector<int>>& filterSpecial, int n) {
@@ -55,3 +37,24 @@ int dfs(vector<int> price, const vector<vector<int>>& special, vector<int> curNe
     }
     return memo[curNeeds];
 }
+
+
+int shoppingOffers(vector<int>& price, vector<vector<int>>& special, vector<int>& needs) {
+    int n = price.size();
+
+    // 过滤不需要计算的大礼包，只保留需要计算的大礼包
+    vector<vector<int>> filterSpecial;
+    for (auto& sp : special) {
+        int totalCount = 0, totalPrice = 0;
+        for (int i = 0; i < n; ++i) {
+            totalCount += sp[i];
+            totalPrice += sp[i] * price[i];
+        }
+        if (totalCount > 0 && totalPrice > sp[n]) {
+            filterSpecial.emplace_back(sp);
+        }
+    }
+
+    return dfs(price, special, needs, filterSpecial, n);
+}
+

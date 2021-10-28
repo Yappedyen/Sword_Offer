@@ -4,28 +4,25 @@
 //给你一个由若干括号和字母组成的字符串 s ，删除最小数量的无效括号，使得输入的字符串有效。
 //
 //返回所有可能的结果。答案可以按 任意顺序 返回。
-
 vector<string> res;
-vector<string> removeInvalidParentheses(string s) {
-    int lremove = 0;
-    int rremove = 0;
+inline bool isValid(const string& str) {
+    int cnt = 0;
 
-    for (char c : s) {
-        if (c == '(') {
-            lremove++;
+    for (int i = 0; i < str.size(); i++) {
+        if (str[i] == '(') {
+            cnt++;
         }
-        else if (c == ')') {
-            if (lremove == 0) {
-                rremove++;
-            }
-            else {
-                lremove--;
+        else if (str[i] == ')') {
+            cnt--;
+            if (cnt < 0) {
+                return false;
             }
         }
     }
-    helper(s, 0, 0, 0, lremove, rremove);
-    return res;
+
+    return cnt == 0;
 }
+
 
 void helper(string str, int start, int lcount, int rcount, int lremove, int rremove) {
     if (lremove == 0 && rremove == 0) {
@@ -64,20 +61,24 @@ void helper(string str, int start, int lcount, int rcount, int lremove, int rrem
     }
 }
 
-inline bool isValid(const string& str) {
-    int cnt = 0;
 
-    for (int i = 0; i < str.size(); i++) {
-        if (str[i] == '(') {
-            cnt++;
+vector<string> removeInvalidParentheses(string s) {
+    int lremove = 0;
+    int rremove = 0;
+
+    for (char c : s) {
+        if (c == '(') {
+            lremove++;
         }
-        else if (str[i] == ')') {
-            cnt--;
-            if (cnt < 0) {
-                return false;
+        else if (c == ')') {
+            if (lremove == 0) {
+                rremove++;
+            }
+            else {
+                lremove--;
             }
         }
     }
-
-    return cnt == 0;
+    helper(s, 0, 0, 0, lremove, rremove);
+    return res;
 }
