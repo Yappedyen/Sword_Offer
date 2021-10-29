@@ -147,6 +147,7 @@
     <ClCompile Include="229MajorityElement.cpp" />
     <ClCompile Include="240searchMatrix.cpp" />
     <ClCompile Include="301removeInvalidParentheses.cpp" />
+    <ClCompile Include="335isSelfCrossing.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="496nextGreaterElement.cpp" />
