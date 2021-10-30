@@ -8,4 +8,5 @@ using namespace std;
 class Solution {
 public:
 	int findRepeatNumber(vector<int>& nums);
+	bool findNumberIn2DArray(vector<vector<int>>& matrix, int target);
 };
