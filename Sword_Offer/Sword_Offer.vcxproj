@@ -154,6 +154,7 @@
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="496nextGreaterElement.cpp" />
     <ClCompile Include="500findWords.cpp" />
+    <ClCompile Include="575distributeCandies.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
     <ClCompile Include="869reorderedPowerOf2.cpp" />
