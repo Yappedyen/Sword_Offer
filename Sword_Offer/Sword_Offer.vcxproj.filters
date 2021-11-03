@@ -78,6 +78,9 @@
     <ClCompile Include="237deleteNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="407trapRainWater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
