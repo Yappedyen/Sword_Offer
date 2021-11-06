@@ -151,6 +151,7 @@
     <ClCompile Include="237deleteNode.cpp" />
     <ClCompile Include="240searchMatrix.cpp" />
     <ClCompile Include="260singleNumber.cpp" />
+    <ClCompile Include="268missingNumber.cpp" />
     <ClCompile Include="301removeInvalidParentheses.cpp" />
     <ClCompile Include="335isSelfCrossing.cpp" />
     <ClCompile Include="367isPerfectSquare.cpp" />

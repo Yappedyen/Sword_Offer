@@ -55,9 +55,9 @@ int init = []() {
     return 0;
 }();
 
-class Solution {
-public:
-    bool reorderedPowerOf2(int n) {
-        return powerOf2Digits.count(countDigits(n));
-    }
-};
+//class Solution {
+//public:
+//    bool reorderedPowerOf2(int n) {
+//        return powerOf2Digits.count(countDigits(n));
+//    }
+//};

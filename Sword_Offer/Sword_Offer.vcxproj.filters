@@ -90,6 +90,9 @@
     <ClCompile Include="1218longestSubsequence.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="268missingNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
