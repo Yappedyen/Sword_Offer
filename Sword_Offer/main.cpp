@@ -29,6 +29,11 @@ int main(){
 		cout << i << endl;
 	for (auto it = a2.begin(); it != a2.end(); it++)
 		cout << *it;
+	cout << endl;
+	v.insert(v.begin(), v.begin(), v.end());
+	for (auto vs : v) {
+		cout << vs << endl;
+	}
 	system("pause");
 	return 0;
 }
