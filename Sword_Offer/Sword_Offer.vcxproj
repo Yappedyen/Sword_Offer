@@ -143,6 +143,7 @@
     <ClCompile Include="04findNumberIn2DArray.cpp" />
     <ClCompile Include="10fib.cpp" />
     <ClCompile Include="10numWays.cpp" />
+    <ClCompile Include="11minArray.cpp" />
     <ClCompile Include="1218longestSubsequence.cpp" />
     <ClCompile Include="1twoSum.cpp" />
     <ClCompile Include="208Trie.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="367isPerfectSquare.cpp" />
     <ClCompile Include="407trapRainWater.cpp" />
     <ClCompile Include="453minMoves.cpp" />
+    <ClCompile Include="488findMinStep.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="496nextGreaterElement.cpp" />
     <ClCompile Include="500findWords.cpp" />
