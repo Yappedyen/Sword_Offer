@@ -145,6 +145,7 @@
     <ClCompile Include="10numWays.cpp" />
     <ClCompile Include="11minArray.cpp" />
     <ClCompile Include="1218longestSubsequence.cpp" />
+    <ClCompile Include="13movingCount.cpp" />
     <ClCompile Include="1twoSum.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />

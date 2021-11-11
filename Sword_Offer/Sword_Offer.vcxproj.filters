@@ -108,6 +108,9 @@
     <ClCompile Include="495findPoisonedDuration.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13movingCount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
