@@ -148,6 +148,7 @@
     <ClCompile Include="12exit.cpp" />
     <ClCompile Include="13movingCount.cpp" />
     <ClCompile Include="14cuttingRope.cpp" />
+    <ClCompile Include="15hammingWeight.cpp" />
     <ClCompile Include="1twoSum.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="598maxCount.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
+    <ClCompile Include="677MapSum.cpp" />
     <ClCompile Include="869reorderedPowerOf2.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
