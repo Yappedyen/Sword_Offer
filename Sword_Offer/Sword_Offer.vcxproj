@@ -149,6 +149,7 @@
     <ClCompile Include="13movingCount.cpp" />
     <ClCompile Include="14cuttingRope.cpp" />
     <ClCompile Include="15hammingWeight.cpp" />
+    <ClCompile Include="16myPow.cpp" />
     <ClCompile Include="1twoSum.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
@@ -159,6 +160,7 @@
     <ClCompile Include="268missingNumber.cpp" />
     <ClCompile Include="299getHint.cpp" />
     <ClCompile Include="301removeInvalidParentheses.cpp" />
+    <ClCompile Include="319bulbSwitch.cpp" />
     <ClCompile Include="335isSelfCrossing.cpp" />
     <ClCompile Include="367isPerfectSquare.cpp" />
     <ClCompile Include="375getMoneyAmount.cpp" />

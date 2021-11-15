@@ -129,6 +129,12 @@
     <ClCompile Include="677MapSum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="319bulbSwitch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16myPow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
