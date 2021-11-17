@@ -160,6 +160,7 @@
     <ClCompile Include="268missingNumber.cpp" />
     <ClCompile Include="299getHint.cpp" />
     <ClCompile Include="301removeInvalidParentheses.cpp" />
+    <ClCompile Include="318maxProduct.cpp" />
     <ClCompile Include="319bulbSwitch.cpp" />
     <ClCompile Include="335isSelfCrossing.cpp" />
     <ClCompile Include="367isPerfectSquare.cpp" />
