@@ -141,6 +141,9 @@
     <ClCompile Include="318maxProduct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="563findTilt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
