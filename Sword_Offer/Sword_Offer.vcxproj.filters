@@ -144,6 +144,9 @@
     <ClCompile Include="563findTilt.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="397integerReplacement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
