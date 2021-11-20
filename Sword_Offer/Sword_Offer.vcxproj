@@ -177,6 +177,7 @@
     <ClCompile Include="520detectCapitalUse.cpp" />
     <ClCompile Include="563findTilt.cpp" />
     <ClCompile Include="575distributeCandies.cpp" />
+    <ClCompile Include="594findLHS.cpp" />
     <ClCompile Include="598maxCount.cpp" />
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
