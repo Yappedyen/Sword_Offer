@@ -150,6 +150,7 @@
     <ClCompile Include="14cuttingRope.cpp" />
     <ClCompile Include="15hammingWeight.cpp" />
     <ClCompile Include="16myPow.cpp" />
+    <ClCompile Include="18deleteNode.cpp" />
     <ClCompile Include="1twoSum.cpp" />
     <ClCompile Include="208Trie.cpp" />
     <ClCompile Include="211WordDictionary.cpp" />
