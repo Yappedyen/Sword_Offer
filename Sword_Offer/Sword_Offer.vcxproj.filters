@@ -150,6 +150,9 @@
     <ClCompile Include="594findLHS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="559maxDepth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
