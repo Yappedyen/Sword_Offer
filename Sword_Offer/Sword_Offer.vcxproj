@@ -166,6 +166,7 @@
     <ClCompile Include="335isSelfCrossing.cpp" />
     <ClCompile Include="367isPerfectSquare.cpp" />
     <ClCompile Include="375getMoneyAmount.cpp" />
+    <ClCompile Include="384solution_class.cpp" />
     <ClCompile Include="391isRectangleCover.cpp" />
     <ClCompile Include="397integerReplacement.cpp" />
     <ClCompile Include="407trapRainWater.cpp" />
