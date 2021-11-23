@@ -185,6 +185,7 @@
     <ClCompile Include="638shoppingOffers.cpp" />
     <ClCompile Include="66PlusOne.cpp" />
     <ClCompile Include="677MapSum.cpp" />
+    <ClCompile Include="859buddyStrings.cpp" />
     <ClCompile Include="869reorderedPowerOf2.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
