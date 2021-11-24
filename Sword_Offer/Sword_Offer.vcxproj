@@ -170,6 +170,7 @@
     <ClCompile Include="391isRectangleCover.cpp" />
     <ClCompile Include="397integerReplacement.cpp" />
     <ClCompile Include="407trapRainWater.cpp" />
+    <ClCompile Include="423originalDigits.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="488findMinStep.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />

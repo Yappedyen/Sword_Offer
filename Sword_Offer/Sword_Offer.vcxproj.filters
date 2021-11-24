@@ -162,6 +162,9 @@
     <ClCompile Include="859buddyStrings.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="423originalDigits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">

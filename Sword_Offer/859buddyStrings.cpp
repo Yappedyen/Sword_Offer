@@ -44,7 +44,6 @@ bool buddyStrings(string s, string goal) {
                     return false;
             }
         }
-
         return (second != -1 && s[first] == goal[second] && s[second] == goal[first]);
     }
 }
