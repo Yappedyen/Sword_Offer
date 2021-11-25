@@ -172,6 +172,7 @@
     <ClCompile Include="407trapRainWater.cpp" />
     <ClCompile Include="423originalDigits.cpp" />
     <ClCompile Include="453minMoves.cpp" />
+    <ClCompile Include="458poorPigs.cpp" />
     <ClCompile Include="488findMinStep.cpp" />
     <ClCompile Include="492constructRectangle.cpp" />
     <ClCompile Include="495findPoisonedDuration.cpp" />
