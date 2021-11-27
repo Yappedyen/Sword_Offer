@@ -178,6 +178,7 @@
     <ClCompile Include="495findPoisonedDuration.cpp" />
     <ClCompile Include="496nextGreaterElement.cpp" />
     <ClCompile Include="500findWords.cpp" />
+    <ClCompile Include="519randomreversematrix.cpp" />
     <ClCompile Include="520detectCapitalUse.cpp" />
     <ClCompile Include="559maxDepth.cpp" />
     <ClCompile Include="563findTilt.cpp" />
