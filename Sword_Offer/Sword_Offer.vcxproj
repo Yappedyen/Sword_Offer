@@ -171,6 +171,7 @@
     <ClCompile Include="397integerReplacement.cpp" />
     <ClCompile Include="407trapRainWater.cpp" />
     <ClCompile Include="423originalDigits.cpp" />
+    <ClCompile Include="438findAnagrams.cpp" />
     <ClCompile Include="453minMoves.cpp" />
     <ClCompile Include="458poorPigs.cpp" />
     <ClCompile Include="488findMinStep.cpp" />
