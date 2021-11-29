@@ -190,6 +190,7 @@
     <ClCompile Include="66PlusOne.cpp" />
     <ClCompile Include="677MapSum.cpp" />
     <ClCompile Include="700searchBST.cpp" />
+    <ClCompile Include="786kthSmallestPrimeFraction.cpp" />
     <ClCompile Include="859buddyStrings.cpp" />
     <ClCompile Include="869reorderedPowerOf2.cpp" />
     <ClCompile Include="main.cpp" />

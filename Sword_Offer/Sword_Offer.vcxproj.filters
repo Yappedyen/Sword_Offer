@@ -177,6 +177,9 @@
     <ClCompile Include="438findAnagrams.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="786kthSmallestPrimeFraction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
