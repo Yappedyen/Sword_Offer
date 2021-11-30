@@ -169,6 +169,7 @@
     <ClCompile Include="384solution_class.cpp" />
     <ClCompile Include="391isRectangleCover.cpp" />
     <ClCompile Include="397integerReplacement.cpp" />
+    <ClCompile Include="400findNthDigit.cpp" />
     <ClCompile Include="407trapRainWater.cpp" />
     <ClCompile Include="423originalDigits.cpp" />
     <ClCompile Include="438findAnagrams.cpp" />
