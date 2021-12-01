@@ -147,6 +147,7 @@
     <ClCompile Include="1218longestSubsequence.cpp" />
     <ClCompile Include="12exit.cpp" />
     <ClCompile Include="13movingCount.cpp" />
+    <ClCompile Include="1446maxPower.cpp" />
     <ClCompile Include="14cuttingRope.cpp" />
     <ClCompile Include="15hammingWeight.cpp" />
     <ClCompile Include="16myPow.cpp" />
