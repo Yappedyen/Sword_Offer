@@ -186,6 +186,9 @@
     <ClCompile Include="1446maxPower.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1005largestSumAfterKNegations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h">
